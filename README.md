@@ -1,4 +1,3 @@
-<!-- Profile README -->
 
 # 👋 Hi, I'm Mahindra K N
 
